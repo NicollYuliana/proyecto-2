@@ -1,3 +1,7 @@
 hola este es mi proyecto 2
 
 creando el repositorio desde la consola de comandos
+
+Empezamos teniendo buenas practicas y realizando todo 
+de manera mas ordenada y entendible.
+
