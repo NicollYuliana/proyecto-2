@@ -1,0 +1,3 @@
+hola este es mi proyecto 2
+
+creando el repositorio desde la consola de comandos
